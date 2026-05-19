@@ -1,16 +1,10 @@
-# pro1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📋 اسم المشروع
+تطبيق اختبارات الكيمياء السريرية (Clinical Chemistry Quiz App)
+💡 نبذة عن المشروع
+تطبيق هاتف محمول (وتطبيق ويب) تفاعلي مخصص لاختبار وتقييم معلومات الطلاب في مجال الكيمياء السريرية، يهدف إلى تسهيل المراجعة الأكاديمية عبر تجربة مستخدم سلسة ومنطق برمي متكامل لإدارة الأسئلة والنتائج.
+🛠️ التقنيات المستخدمة (Tech Stack)
+الإطار البرمجي: Flutter
+لغة البرمجة: Dart
+✨ مميزات التطبيق (Features)
+واجهات مستخدم متجاوبة (Responsive UI) تناسب الهواتف والويب.
+نظام احتساب نقاط فوري وتصحيح تلقائي للإجابات.
